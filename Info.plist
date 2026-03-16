@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ThemeIdentifier</key>
+	<string>com.maximilianbenner.themes.28-west-40th</string>
+	<key>Name</key>
+	<string>28 West 40th</string>
+	<key>CreatorHomePage</key>
+	<string>https://maximilianbenner.com</string>
+	<key>CreatorName</key>
+	<string>Maximilian Benner</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
