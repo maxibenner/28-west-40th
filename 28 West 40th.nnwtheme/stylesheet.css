@@ -31,10 +31,9 @@ img,
 video,
 embed,
 iframe {
-  width: calc(100% + 20px);
+  width: 100%;
   height: auto;
   margin: 0;
-  margin: 0 -10px;
 }
 
 embed,
@@ -45,10 +44,10 @@ iframe {
 figcaption {
   font-family: sans-serif;
   font-size: 0.7rem;
-  margin: 0 12px;
+  margin: 0;
   margin-top: 0.2rem;
   opacity: 0.5;
-  width: calc(100% - 24px);
+  width: 100%;
 }
 
 blockquote {
